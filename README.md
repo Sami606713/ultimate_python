@@ -10,7 +10,8 @@
   - [comments](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1/comments.py)
 
 - **Chapter1 Exercide**
-  - [Problem1](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem1.py)
-  - [Problem4](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem4.py)
-  - [Problem5](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem5.py)
+  - [Twinkle Twinkle Little Star](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem1.py)
+  - [Install External Module](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem3.py)
+  - [Display Directory Content](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem4.py)
+  - [Adding comments](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem5.py)
 
