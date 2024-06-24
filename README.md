@@ -25,9 +25,9 @@
 
 -  **Chapter2 Exercide**
     - [Problem1](https://github.com/Sami606713/ultimate_python/blob/main/chapter2_exercise/problem1.py)
-    - [Problem2](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem2.py)
-    - [Problem3](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem3.py)
-    - [Problem4](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem4.py)
-    - [Problem5](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem5.py)
-    - [Problem6](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem6.py)
+    - [Problem2](https://github.com/Sami606713/ultimate_python/blob/main/chapter2_exercise/problem2.py)
+    - [Problem3](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2_exercise/problem3.py)
+    - [Problem4](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2_exercise/problem4.py)
+    - [Problem5](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2_exercise/problem5.py)
+    - [Problem6](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2_exercise/problem6.py)
 
