@@ -15,3 +15,19 @@
   - [Display Directory Content](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem4.py)
   - [Adding comments](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem5.py)
 
+- **Chapter2**
+  - [Variables](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2/variable.py)
+  - [Datatypes](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2/datatypes.py)
+  - [Operators](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2/operators.py)
+  - [Type Function](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2/type_fun.py)
+  - [Type_Casting](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2/type_castin.py)
+  - [Input Fun](https://github.com/Sami606713/ultimate_python/blob/main/Chapter2/input_fun.py)
+
+-  **Chapter2 Exercide**
+  - [Problem1](https://github.com/Sami606713/ultimate_python/blob/main/chapter2_exercise/problem1.py)
+  - [Problem2](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem2.py)
+  - [Problem3](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem3.py)
+  - [Problem4](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem4.py)
+  - [Problem5](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem5.py)
+  - [Problem6](https://github.com/Sami606713/ultimate_python/blob/main/Chapter1_exercise/problem6.py)
+
